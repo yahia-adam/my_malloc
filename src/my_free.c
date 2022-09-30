@@ -1,0 +1,3 @@
+void free(void *ptr) {
+
+}
